@@ -188,7 +188,24 @@ background-color: #432B0F;
 
 .jumbotron h1 {
   text-align: center;
+  font-family: "Italianno", cursive;
+  font-size: 100px;
 }
+
+.jumbotron h2 {
+  text-align: center;
+  font-family: "Italianno", cursive;
+  font-size: 70px;
+}
+
+.jumbotron h3 {
+  text-align: center;
+  font-family: "Italianno", cursive;
+  font-size: 50px;
+}
+
+
+
 .navbar-title {
   color: #F3DCDC;
   text-align: left;
@@ -201,9 +218,41 @@ background-color: #432B0F;
 
 }
 
-.well {background-color: #F1F0E1;}
+.well {
+  background-color: #F1F0E1;
+}
 
-/*.portfolio-content{
-border-top: 1px solid black;
 
-}*/
+
+#contact-us{
+  color: #F3DCDC;
+  background-color:#432B0F;
+  
+
+}
+
+
+#contact-us h2{
+text-align: center;
+  font-family: "Italianno", cursive;
+  font-size: 50px;
+
+}
+h4 {
+font-family: "Courgette";cursive
+}
+
+#space {
+height: 20px;
+
+}
+footer {
+color: #F3DCDC;
+  background-color:#432B0F;
+
+}
+#nav-title-right{
+font-family: "Italianno", cursive;
+font-size: 40px;
+
+}
